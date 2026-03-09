@@ -1,1 +1,1 @@
-deep leaning using pytorch
+      DEEP LEARNING USING PYTORCH
